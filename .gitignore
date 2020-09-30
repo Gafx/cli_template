@@ -1,0 +1,42 @@
+# IntelliJ Idea project files
+.idea
+target
+*.iml
+
+# Eclipse project files
+.classpath
+.settings
+.project
+
+# Temporary files
+conf_dev
+*.pyc
+out
+
+# python build temp file
+dist
+*.egg-info
+build
+
+# OSX temp files
+.DS_Store
+
+
+# vim swp
+*.swp
+
+# log config
+log.conf
+
+# vscode
+.vscode
+
+# sublime
+*.sublime-project
+*.sublime-workspace
+
+# test tmp file
+httplog.log*
+uwsgi.pid
+.pytest_cache
+
